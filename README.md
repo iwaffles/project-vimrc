@@ -1,5 +1,13 @@
 # Project based vimrc setup
 
+## Why?
+
+Let's say you do development in your free time and you also work for a company or on an open source project. That project happens to have different styling than your personal project such as using spaces instead of tabs.
+
+Instead of using different editors, you can share a file so that you can easily follow the style guide (or use other configuration options).
+
+## How?
+
 In your main .vimrc file add:
 
 ```
